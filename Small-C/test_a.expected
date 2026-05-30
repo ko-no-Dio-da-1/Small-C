@@ -1,0 +1,7 @@
+Original: 64 25 12 22 11 90 45 33 
+Max = 90
+Min = 11
+Sum = 302
+Avg = 37
+Sorted:   11 12 22 25 33 45 64 90 
+Program exited with return value 0.

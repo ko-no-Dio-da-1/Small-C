@@ -1,0 +1,8 @@
+a = 171, b = 15
+a & b = 11
+a | b = 175
+a ^ b = 164
+~a = -172
+b << 4 = 240
+a >> 2 = 42
+Program exited with return value 0.

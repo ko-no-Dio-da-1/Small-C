@@ -1,0 +1,5 @@
+AND 1: x=0, g=0
+AND 2: x=1, g=1
+OR 1: x=1, g=1
+OR 2: x=1, g=2
+Program exited with return value 0.

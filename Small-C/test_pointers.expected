@@ -1,0 +1,5 @@
+x=42, *p=42
+x=99, *p=99
+ap[0]=10, ap[1]=20, ap[2]=30
+arr[1]=200
+Program exited with return value 0.

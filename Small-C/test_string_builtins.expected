@@ -1,0 +1,6 @@
+strcpy: Hello (len=5)
+strcat: Hello World (len=11)
+strcmp(apple, banana) = -1
+strcmp(apple, apple) = 0
+strcmp(banana, apple) = 1
+Program exited with return value 0.

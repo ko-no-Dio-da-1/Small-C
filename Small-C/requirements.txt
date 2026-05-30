@@ -1,0 +1,2 @@
+# This project has no external dependencies.
+# Only a standard Python 3.10+ installation is required.
